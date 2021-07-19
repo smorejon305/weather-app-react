@@ -6,7 +6,9 @@ function App() {
     <div className="App">
       <h1>Weather App</h1>
       <h2>(React Version)</h2>
-      <a href="https://www.shecodes.io">She Codes</a>
+      <a href="https://www.shecodes.io" target="_blank" rel="noreferrer">
+        She Codes
+      </a>
     </div>
   );
 }
