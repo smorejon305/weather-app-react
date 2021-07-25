@@ -10,7 +10,7 @@ function App() {
       <h1>Weather App</h1>
       <h2>(React Version)</h2>
 
-      <Weather />
+      <Weather city="Prague" />
     </div>
   );
 }
